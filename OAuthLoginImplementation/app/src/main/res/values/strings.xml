@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OLI</string>
+    <string name="logs_go_here"><b>Logs go here:<br /></b></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="auth_redirect_IF">Auth Redirect</string>
+
+</resources>
